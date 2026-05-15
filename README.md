@@ -97,7 +97,7 @@ Página executiva com:
 - Top 10 do Scouting Score
 - gráfico de dispersão com finalização, criação e drible
 
-![Página 1 - Visão Geral](images/pagina1-visao-geral.png)
+![Página 1 - Visão Geral](images/pagina1.png)
 
 ### 2. Tabela de Scouting
 Página de consulta detalhada com:
@@ -105,7 +105,7 @@ Página de consulta detalhada com:
 - métricas principais por jogador
 - formatação condicional para facilitar leitura comparativa
 
-![Página 2 - Tabela de Scouting](images/pagina2-tabela-scouting.png)
+![Página 2 - Tabela de Scouting](images/pagina2.png)
 
 ### 3. Comparação entre Jogadores
 Página para comparação direta entre dois jogadores, com:
@@ -113,7 +113,7 @@ Página para comparação direta entre dois jogadores, com:
 - score e ranking de cada um
 - comparação visual por subscores
 
-![Página 3 - Comparação entre Jogadores](images/pagina3-comparacao-jogadores.png)
+![Página 3 - Comparação entre Jogadores](images/pagina3.png)
 
 ## Estrutura do repositório
 
